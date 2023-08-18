@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "76270fc1-0ead-4256-8bc9-7efe66d07317",
+      "A2": "ArtemTerziRealtyFUIRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "9ec51f1c-933b-40ce-9dd6-b4725d0bc105",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "50e106a1-3cd8-4b5a-aaed-b1e4a8eaceab",
+            "PageSchemaUId": "9c370352-1321-4eec-aeb6-2195e80023ef",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}

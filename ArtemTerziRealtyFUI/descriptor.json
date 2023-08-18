@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "6a226c70-a7c8-4569-98b7-13f3830e8a7d",
+    "Name": "ArtemTerziRealtyFUI",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1632313759000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/ArtemTerziRealtyFUI.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      }
+    ]
+  }
+}

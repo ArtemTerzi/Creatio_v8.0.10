@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1c3e6575-45c3-45f7-9377-a1dd1b402202",
+    "Name": "ArtemTerziVwContactAgeDays",
+    "ModifiedOnUtc": "\/Date(1692283488000)\/",
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Object",
+    "DependsOn": []
+  }
+}

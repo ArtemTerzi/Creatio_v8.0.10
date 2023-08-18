@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница записи Недвижимость (FreedomUI)" />
+			<Item Name="LocalizableStrings.addRecord_5b2dfhf_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_vj2guif_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.ArtemTerziType_placeholder.Value" Value="Укажите тип недвижимости" />
+			<Item Name="LocalizableStrings.ArtemTerziType_tooltip.Value" Value="Из вападающего списка необходимо выбрать тип недвижимости" />
+		</Items>
+	</Group>
+</Resources>

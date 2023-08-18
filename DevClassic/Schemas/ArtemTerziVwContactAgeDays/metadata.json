@@ -1,0 +1,100 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "EntitySchemaManager",
+      "UId": "1c3e6575-45c3-45f7-9377-a1dd1b402202",
+      "A2": "ArtemTerziVwContactAgeDays",
+      "A5": "61d4b948-ce5c-467c-9bb3-f5bc32948d38",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "3a356ab4-3c81-bf24-2ebe-11efe6ed47e3",
+      "B8": "8.0.10.4735",
+      "EG1": {
+        "UId": "92c5fe61-79d3-49fd-8dea-ced55977202f",
+        "A2": "ArtemTerziEntity_364fbf8EventsProcess",
+        "A5": "61d4b948-ce5c-467c-9bb3-f5bc32948d38",
+        "B1": [],
+        "B2": [],
+        "B3": [],
+        "B8": "8.0.10.4735",
+        "FJ1": [],
+        "IJ3": false,
+        "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+        "BK15": [],
+        "BK37": {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+          "A2": "NotificationCaption",
+          "A3": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "A4": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {
+            "GS1": 3,
+            "GS2": "[#[PropertyValue:Caption]#]"
+          }
+        },
+        "BK1": "FFFFFFFF",
+        "BK2": "FFBBBBBB",
+        "BK3": [],
+        "BK5": [],
+        "BK4": [],
+        "BK9": [],
+        "BK10": true,
+        "BK34": "null",
+        "Labels": [],
+        "BK24": [],
+        "JC1": []
+      },
+      "D10": true,
+      "D8": "1b56b061-4e91-4974-9038-df8340e534f2",
+      "D29": "null",
+      "D30": "null",
+      "D31": "null",
+      "D3": "8613a92c-afe3-8cf9-53ae-db27dbc53822",
+      "D2": [
+        {
+          "UId": "fa34176d-e345-f89f-e8db-796faa9a1cd6",
+          "A2": "ArtemTerziAgeDays",
+          "A3": "1c3e6575-45c3-45f7-9377-a1dd1b402202",
+          "A4": "1c3e6575-45c3-45f7-9377-a1dd1b402202",
+          "A5": "61d4b948-ce5c-467c-9bb3-f5bc32948d38",
+          "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+        },
+        {
+          "UId": "c9851004-1a69-e197-1af0-6cfa174d8db5",
+          "A2": "ArtemTerziBirthDate",
+          "A3": "1c3e6575-45c3-45f7-9377-a1dd1b402202",
+          "A4": "1c3e6575-45c3-45f7-9377-a1dd1b402202",
+          "A5": "61d4b948-ce5c-467c-9bb3-f5bc32948d38",
+          "S2": "603d4960-a1a2-45e9-b232-206a54421b01"
+        },
+        {
+          "UId": "ac98b867-b54b-fbc9-827f-be32d4f1c8d7",
+          "A2": "ArtemTerziName",
+          "A3": "1c3e6575-45c3-45f7-9377-a1dd1b402202",
+          "A4": "1c3e6575-45c3-45f7-9377-a1dd1b402202",
+          "A5": "61d4b948-ce5c-467c-9bb3-f5bc32948d38",
+          "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+        },
+        {
+          "UId": "8613a92c-afe3-8cf9-53ae-db27dbc53822",
+          "A2": "ArtemTerziId",
+          "A3": "1c3e6575-45c3-45f7-9377-a1dd1b402202",
+          "A4": "1c3e6575-45c3-45f7-9377-a1dd1b402202",
+          "A5": "61d4b948-ce5c-467c-9bb3-f5bc32948d38",
+          "S2": "23018567-a13c-4320-8687-fd6f9e3699bd"
+        }
+      ],
+      "D6": [],
+      "D20": {
+        "A2": "ArtemTerziVwContactAgeDaysEvents"
+      },
+      "D35": {},
+      "D36": {
+        "A3": "1c3e6575-45c3-45f7-9377-a1dd1b402202",
+        "BS1": false
+      }
+    }
+  }
+}

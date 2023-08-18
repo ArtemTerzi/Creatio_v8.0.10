@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3dcdfdda-64a8-4825-bf97-a10928988a6e",
+    "Name": "ArtemTerziRealtyFUI_Detail",
+    "ModifiedOnUtc": "\/Date(1692292073000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Недвижимость (FreedomUI) detail",
+    "DependsOn": []
+  }
+}

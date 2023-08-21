@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "64dd0841-b6e4-4dc6-8afa-99dcdd850a6e",
+    "Name": "ArtemTerziRealtyClassic17f80802Section",
+    "ModifiedOnUtc": "\/Date(1692640952000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Недвижимость (ClassicUI)\""
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "8d41ffa2-294d-4c07-965f-25b379c006eb",
+    "Name": "ArtemTerziRealtyClassicFolder",
+    "ModifiedOnUtc": "\/Date(1692640969000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Недвижимость (ClassicUI)"
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "9a703dfc-919c-45eb-86ec-0c6697073fd5",
+    "Name": "ArtemTerziRealtyVisitFreedoomUIPage",
+    "ModifiedOnUtc": "\/Date(1692523951000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования Просмотр недвижимости (Freedom UI)"
+  }
+}

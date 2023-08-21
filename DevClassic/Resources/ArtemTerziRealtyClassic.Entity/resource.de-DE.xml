@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Недвижимость (ClassicUI)" />
+			<Item Name="Columns.ArtemTerziName.Caption" Value="Name" />
+			<Item Name="Columns.ArtemTerziNotes.Caption" Value="Notizen" />
+		</Items>
+	</Group>
+</Resources>

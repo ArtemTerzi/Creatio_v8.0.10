@@ -4,7 +4,11 @@
 		<Items>
 			<Item Name="Caption" Value="Недвижимость (FreedomUI)" />
 			<Item Name="Columns.ArtemTerziArea.Caption" Value="Площадь" />
+			<Item Name="Columns.ArtemTerziCity.Caption" Value="Город" />
 			<Item Name="Columns.ArtemTerziComment.Caption" Value="Комментарий" />
+			<Item Name="Columns.ArtemTerziComnissionUSD.Caption" Value="Комиссия, USD" />
+			<Item Name="Columns.ArtemTerziCountry.Caption" Value="Страна" />
+			<Item Name="Columns.ArtemTerziManager.Caption" Value="Менеджер" />
 			<Item Name="Columns.ArtemTerziName.Caption" Value="Название" />
 			<Item Name="Columns.ArtemTerziOfferType.Caption" Value="Тип предложения" />
 			<Item Name="Columns.ArtemTerziPriceUSD.Caption" Value="Цена, USD" />

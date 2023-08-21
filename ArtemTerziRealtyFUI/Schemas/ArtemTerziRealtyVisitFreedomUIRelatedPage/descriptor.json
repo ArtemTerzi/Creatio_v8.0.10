@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a107319a-6efb-4016-8b11-5dbf9d1d86d4",
+    "Name": "ArtemTerziRealtyVisitFreedomUIRelatedPage",
+    "ModifiedOnUtc": "\/Date(1692523991000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Просмотр недвижимости (Freedom UI) (Настройка страницы)",
+    "DependsOn": []
+  }
+}

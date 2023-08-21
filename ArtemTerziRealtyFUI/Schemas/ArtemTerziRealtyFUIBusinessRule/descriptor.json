@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "becba7cd-499a-472b-8a51-904b3e9ed054",
+    "Name": "ArtemTerziRealtyFUIBusinessRule",
+    "ModifiedOnUtc": "\/Date(1692522685000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Недвижимость (FreedomUI) (Бизнес правила)",
+    "DependsOn": []
+  }
+}

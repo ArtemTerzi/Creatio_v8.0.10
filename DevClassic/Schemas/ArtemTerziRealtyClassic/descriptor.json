@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "ea37084f-bc74-4b1b-b592-fe0533e3ddd9",
+    "Name": "ArtemTerziRealtyClassic",
+    "ModifiedOnUtc": "\/Date(1692640961000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Недвижимость (ClassicUI)"
+  }
+}

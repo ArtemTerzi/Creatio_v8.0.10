@@ -4,9 +4,21 @@
 		<Items>
 			<Item Name="Caption" Value="Страница записи Недвижимость (FreedomUI)" />
 			<Item Name="LocalizableStrings.addRecord_5b2dfhf_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_fzxnsrf_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_knfxx85_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.addRecord_vj2guif_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.addRecord_zky1996_caption.Value" Value="Добавить" />
 			<Item Name="LocalizableStrings.ArtemTerziType_placeholder.Value" Value="Укажите тип недвижимости" />
 			<Item Name="LocalizableStrings.ArtemTerziType_tooltip.Value" Value="Из вападающего списка необходимо выбрать тип недвижимости" />
+			<Item Name="LocalizableStrings.Button_6rn7lps_caption.Value" Value="Пищь!" />
+			<Item Name="LocalizableStrings.ExpansionPanel_2lu849i_title.Value" Value="Просмотр недвижимости (Freedom UI)" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_stzgqtc_caption.Value" Value="Добавить" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_amc22l5_caption.Value" Value="Экспорт в Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_g3iesmj_caption.Value" Value="Импорт данных" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_uf5yvdl_caption.Value" Value="Обновить" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_iotkuxy_placeholder.Value" Value="Поиск" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_xxgdq2d_caption.Value" Value="Действия" />
+			<Item Name="LocalizableStrings.NumberInput_skcqh93_label.Value" Value="Число" />
 		</Items>
 	</Group>
 </Resources>

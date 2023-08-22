@@ -2,12 +2,13 @@
   "Descriptor": {
     "UId": "93bd2366-d40a-4094-a7a8-c945e9f54b6e",
     "Name": "ArtemTerziRealtyClassicTag",
-    "ModifiedOnUtc": "\/Date(1692640975000)\/",
+    "ModifiedOnUtc": "\/Date(1692640976000)\/",
     "Parent": {
       "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
       "Name": "BaseTag"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "Тег раздела Недвижимость (ClassicUI)"
+    "Caption": "Тег раздела Недвижимость (ClassicUI)",
+    "DependsOn": []
   }
 }

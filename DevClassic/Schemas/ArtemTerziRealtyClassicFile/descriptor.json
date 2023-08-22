@@ -2,12 +2,13 @@
   "Descriptor": {
     "UId": "f69f2e77-7025-4c2d-a191-1905d450827d",
     "Name": "ArtemTerziRealtyClassicFile",
-    "ModifiedOnUtc": "\/Date(1692640964000)\/",
+    "ModifiedOnUtc": "\/Date(1692640966000)\/",
     "Parent": {
       "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
       "Name": "File"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "Файл и ссылка объекта Недвижимость (ClassicUI)"
+    "Caption": "Файл и ссылка объекта Недвижимость (ClassicUI)",
+    "DependsOn": []
   }
 }

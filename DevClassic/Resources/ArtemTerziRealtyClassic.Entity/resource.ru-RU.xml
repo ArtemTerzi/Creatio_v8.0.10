@@ -3,8 +3,15 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Недвижимость (ClassicUI)" />
+			<Item Name="Columns.ArtemTerziArea.Caption" Value="Площадь, м2" />
+			<Item Name="Columns.ArtemTerziComment.Caption" Value="Комментарий" />
+			<Item Name="Columns.ArtemTerziCommissionUSD.Caption" Value="Комиссия, USD" />
+			<Item Name="Columns.ArtemTerziManager.Caption" Value="Менеджер" />
 			<Item Name="Columns.ArtemTerziName.Caption" Value="Название" />
 			<Item Name="Columns.ArtemTerziNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.ArtemTerziOfferType.Caption" Value="Тип предложения" />
+			<Item Name="Columns.ArtemTerziPriceUSD.Caption" Value="Цена, USD" />
+			<Item Name="Columns.ArtemTerziType.Caption" Value="Тип" />
 		</Items>
 	</Group>
 </Resources>

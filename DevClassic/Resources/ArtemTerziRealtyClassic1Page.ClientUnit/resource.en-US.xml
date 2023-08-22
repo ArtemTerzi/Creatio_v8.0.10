@@ -3,6 +3,8 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Страница редактирования: &quot;Недвижимость (ClassicUI)&quot;" />
+			<Item Name="LocalizableStrings.STRING17b5dbbfc63f442e8c47acda649e2c6cTip.Value" Value="Пример подсказки " />
+			<Item Name="LocalizableStrings.ValueMustBeGreaterThanZero.Value" Value="Значение должно быть больше чем 0" />
 		</Items>
 	</Group>
 </Resources>

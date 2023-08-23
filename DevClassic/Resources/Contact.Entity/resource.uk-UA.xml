@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Контакт" />
+			<Item Name="Columns.Account.Caption" Value="Контрагент" />
+			<Item Name="Columns.Address.Caption" Value="Адреса" />
+			<Item Name="Columns.AddressType.Caption" Value="Тип адреси" />
+			<Item Name="Columns.Age.Caption" Value="Вік" />
+			<Item Name="Columns.BirthDate.Caption" Value="Дата народження" />
+			<Item Name="Columns.Channel.Caption" Value="Канал" />
+			<Item Name="Columns.City.Caption" Value="Місто" />
+			<Item Name="Columns.Completeness.Caption" Value="Повнота наповнення даними" />
+			<Item Name="Columns.Confirmed.Caption" Value="Підтверджений" />
+			<Item Name="Columns.ContactPhoto.Caption" Value="ContactPhoto" />
+			<Item Name="Columns.Country.Caption" Value="Країна" />
+			<Item Name="Columns.CreatedBy.Caption" Value="Створив" />
+			<Item Name="Columns.CreatedOn.Caption" Value="Дата створення" />
+			<Item Name="Columns.CustomerNeed.Caption" Value="Тип потреби" />
+			<Item Name="Columns.Dear.Caption" Value="Привітання" />
+			<Item Name="Columns.DecisionRole.Caption" Value="Роль" />
+			<Item Name="Columns.Department.Caption" Value="Департамент" />
+			<Item Name="Columns.DoNotUseCall.Caption" Value="Не використовувати телефон" />
+			<Item Name="Columns.DoNotUseEmail.Caption" Value="Не використовувати Email" />
+			<Item Name="Columns.DoNotUseFax.Caption" Value="Не використовувати факс" />
+			<Item Name="Columns.DoNotUseMail.Caption" Value="Не використовувати пошту" />
+			<Item Name="Columns.DoNotUseSms.Caption" Value="Не використовувати SMS" />
+			<Item Name="Columns.Email.Caption" Value="Е-mail" />
+			<Item Name="Columns.Facebook.Caption" Value="Фейсбук" />
+			<Item Name="Columns.FacebookAFDA.Caption" Value="Аккаунт Facebook для доступу до даних" />
+			<Item Name="Columns.FacebookId.Caption" Value="FacebookId" />
+			<Item Name="Columns.Gender.Caption" Value="Стать" />
+			<Item Name="Columns.GivenName.Caption" Value="Ім'я" />
+			<Item Name="Columns.GPSE.Caption" Value="GPS E" />
+			<Item Name="Columns.GPSN.Caption" Value="GPS N" />
+			<Item Name="Columns.HomePhone.Caption" Value="Домашній телефон" />
+			<Item Name="Columns.Id.Caption" Value="Id" />
+			<Item Name="Columns.IsEmailConfirmed.Caption" Value="IsEmailConfirmed" />
+			<Item Name="Columns.Job.Caption" Value="Посада" />
+			<Item Name="Columns.JobTitle.Caption" Value="Повна назва посади" />
+			<Item Name="Columns.Language.Caption" Value="Мова спілкування" />
+			<Item Name="Columns.LinkedIn.Caption" Value="LinkedIn" />
+			<Item Name="Columns.LinkedInAFDA.Caption" Value="Аккаунт LinkedIn для доступу до даних" />
+			<Item Name="Columns.LinkedInId.Caption" Value="LinkedInId" />
+			<Item Name="Columns.MiddleName.Caption" Value="По батькові" />
+			<Item Name="Columns.MobilePhone.Caption" Value="Мобільний телефон" />
+			<Item Name="Columns.ModifiedBy.Caption" Value="Змінив" />
+			<Item Name="Columns.ModifiedOn.Caption" Value="Дата змінення" />
+			<Item Name="Columns.Name.Caption" Value="ПІБ" />
+			<Item Name="Columns.Notes.Caption" Value="Нотатки" />
+			<Item Name="Columns.Owner.Caption" Value="Відповідальний" />
+			<Item Name="Columns.Phone.Caption" Value="Робочий телефон" />
+			<Item Name="Columns.Photo.Caption" Value="Фото" />
+			<Item Name="Columns.ProcessListeners.Caption" Value="Активні процеси" />
+			<Item Name="Columns.Region.Caption" Value="Область/штат" />
+			<Item Name="Columns.RegisterMethod.Caption" Value="Як зареєстрований" />
+			<Item Name="Columns.SalutationType.Caption" Value="Звернення" />
+			<Item Name="Columns.Skype.Caption" Value="Skype" />
+			<Item Name="Columns.Source.Caption" Value="Джерело" />
+			<Item Name="Columns.Surname.Caption" Value="Прізвище" />
+			<Item Name="Columns.Twitter.Caption" Value="Твіттер" />
+			<Item Name="Columns.TwitterAFDA.Caption" Value="Аккаунт Twitter для доступу до даних" />
+			<Item Name="Columns.TwitterId.Caption" Value="TwitterId" />
+			<Item Name="Columns.Type.Caption" Value="Тип" />
+			<Item Name="Columns.Zip.Caption" Value="Індекс" />
+		</Items>
+	</Group>
+</Resources>

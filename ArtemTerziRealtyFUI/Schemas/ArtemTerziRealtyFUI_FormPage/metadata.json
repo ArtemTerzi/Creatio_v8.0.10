@@ -113,6 +113,27 @@
   "A4": "9c370352-1321-4eec-aeb6-2195e80023ef",
   "A5": "727d454f-74e4-43bc-be3e-c57e5e690632"
 }
++ MetaData.Schema.B2 {
+  "UId": "8e5dc7f5-3d48-be0f-e9f3-311fa79e9aa7",
+  "A2": "MenuItem_5yc9fu3_caption",
+  "A3": "9c370352-1321-4eec-aeb6-2195e80023ef",
+  "A4": "9c370352-1321-4eec-aeb6-2195e80023ef",
+  "A5": "727d454f-74e4-43bc-be3e-c57e5e690632"
+}
++ MetaData.Schema.B2 {
+  "UId": "468ddafa-112e-5822-64dd-20c234abcb16",
+  "A2": "Button_899zjvp_caption",
+  "A3": "9c370352-1321-4eec-aeb6-2195e80023ef",
+  "A4": "9c370352-1321-4eec-aeb6-2195e80023ef",
+  "A5": "727d454f-74e4-43bc-be3e-c57e5e690632"
+}
++ MetaData.Schema.B2 {
+  "UId": "36eb31de-f566-61d4-0d2b-6a4aedf65a38",
+  "A2": "MenuItem_idjo9yj_caption",
+  "A3": "9c370352-1321-4eec-aeb6-2195e80023ef",
+  "A4": "9c370352-1321-4eec-aeb6-2195e80023ef",
+  "A5": "727d454f-74e4-43bc-be3e-c57e5e690632"
+}
 = MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A4 "9c370352-1321-4eec-aeb6-2195e80023ef"
 = MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A5 "727d454f-74e4-43bc-be3e-c57e5e690632"
 = MetaData.Schema.B2.["a77180d7-a9d0-5c7d-a47b-74c0545a1774"].A4 "9c370352-1321-4eec-aeb6-2195e80023ef"
@@ -139,7 +160,7 @@
 = MetaData.Schema.B2.["be578da5-5d7d-ab2f-1e20-3e60b2942dd8"].A5 "727d454f-74e4-43bc-be3e-c57e5e690632"
 = MetaData.Schema.B2.["bdd7993a-a255-b4d6-62d6-fe0785da6821"].A4 "9c370352-1321-4eec-aeb6-2195e80023ef"
 = MetaData.Schema.B2.["bdd7993a-a255-b4d6-62d6-fe0785da6821"].A5 "727d454f-74e4-43bc-be3e-c57e5e690632"
-~ MetaData.Schema.B2 ["381cf872-70e6-dc51-850f-a4e73217818d","5ee466f8-2ce0-d5eb-cdc9-aac77b2f6744","c2fbe6ec-b1dd-b27a-5902-3efcd7f5d373","bca825ac-8c68-ae30-7860-a50b5dac987b","139ee80b-f3a6-02d6-f822-ec869297bcaf","969094da-b829-f3b5-cf16-56ce56851438","8e79f681-378b-99b8-efb5-176ae7c4f2c2","159c5597-f984-e30a-5b4b-86d79bd6083f","4551d4d9-6bd3-d055-c0d3-d976a2e57eed","65fe1364-db34-160e-7e23-1202f071d9bd","6eedb9a1-3b22-78a8-0170-a67abe117a91","950c6a97-6faa-b381-a194-32a9bdb933f1","26ce7f45-8076-340e-d30a-ca5b6cc07cb1","71e467c1-5a5d-cea4-497f-b8415dcee70a","7cf0163d-80f6-930b-4682-71c48e228fba","9aff8032-a56a-ca40-bdc2-f0aacc785167","fd9e5bd2-19ad-68b5-1356-fe7b39d36f28","a77180d7-a9d0-5c7d-a47b-74c0545a1774","a53e6c9a-741a-21de-9293-9d87d6014595","09d13380-5ba0-e839-0eb2-8c4de07ba379","3e977072-67fa-588e-d554-1d5c45e71ae9","231defdf-a768-e23a-fb30-1af82d65f9f9","d6b949fc-ba7c-e706-6a88-0422133b6a4e","ea614858-aa1f-88eb-88df-0df1c32cb9e4","a9f73c3b-ba40-54c2-52c9-53cb864eba03","0011a5bb-3302-742c-a621-c833f2ec8174","67995f5e-d70a-e2a3-5494-a22737ff9c44","be578da5-5d7d-ab2f-1e20-3e60b2942dd8","bdd7993a-a255-b4d6-62d6-fe0785da6821"]
+~ MetaData.Schema.B2 ["381cf872-70e6-dc51-850f-a4e73217818d","5ee466f8-2ce0-d5eb-cdc9-aac77b2f6744","c2fbe6ec-b1dd-b27a-5902-3efcd7f5d373","bca825ac-8c68-ae30-7860-a50b5dac987b","139ee80b-f3a6-02d6-f822-ec869297bcaf","969094da-b829-f3b5-cf16-56ce56851438","8e79f681-378b-99b8-efb5-176ae7c4f2c2","159c5597-f984-e30a-5b4b-86d79bd6083f","4551d4d9-6bd3-d055-c0d3-d976a2e57eed","65fe1364-db34-160e-7e23-1202f071d9bd","6eedb9a1-3b22-78a8-0170-a67abe117a91","950c6a97-6faa-b381-a194-32a9bdb933f1","26ce7f45-8076-340e-d30a-ca5b6cc07cb1","71e467c1-5a5d-cea4-497f-b8415dcee70a","7cf0163d-80f6-930b-4682-71c48e228fba","9aff8032-a56a-ca40-bdc2-f0aacc785167","8e5dc7f5-3d48-be0f-e9f3-311fa79e9aa7","468ddafa-112e-5822-64dd-20c234abcb16","36eb31de-f566-61d4-0d2b-6a4aedf65a38","fd9e5bd2-19ad-68b5-1356-fe7b39d36f28","a77180d7-a9d0-5c7d-a47b-74c0545a1774","a53e6c9a-741a-21de-9293-9d87d6014595","09d13380-5ba0-e839-0eb2-8c4de07ba379","3e977072-67fa-588e-d554-1d5c45e71ae9","231defdf-a768-e23a-fb30-1af82d65f9f9","d6b949fc-ba7c-e706-6a88-0422133b6a4e","ea614858-aa1f-88eb-88df-0df1c32cb9e4","a9f73c3b-ba40-54c2-52c9-53cb864eba03","0011a5bb-3302-742c-a621-c833f2ec8174","67995f5e-d70a-e2a3-5494-a22737ff9c44","be578da5-5d7d-ab2f-1e20-3e60b2942dd8","bdd7993a-a255-b4d6-62d6-fe0785da6821"]
 = MetaData.Schema.B6 "6a226c70-a7c8-4569-98b7-13f3830e8a7d"
 = MetaData.Schema.HD1 "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9"
 - MetaData.Schema.B7

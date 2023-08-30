@@ -1,0 +1,24 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "SourceCodeSchemaManager",
+      "UId": "cd7220e7-432d-417a-b3e1-e75db92ed2cd",
+      "A2": "ArtemTerziRealtyFreedomUIEvents",
+      "A5": "727d454f-74e4-43bc-be3e-c57e5e690632",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "39eafa1b-abfd-ad1d-72e0-a48ec3fe3533",
+          "A2": "ValueIsTooBig",
+          "A3": "cd7220e7-432d-417a-b3e1-e75db92ed2cd",
+          "A4": "cd7220e7-432d-417a-b3e1-e75db92ed2cd",
+          "A5": "727d454f-74e4-43bc-be3e-c57e5e690632"
+        }
+      ],
+      "B3": [],
+      "B6": "6a226c70-a7c8-4569-98b7-13f3830e8a7d",
+      "B8": "8.0.10.4735",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3"
+    }
+  }
+}

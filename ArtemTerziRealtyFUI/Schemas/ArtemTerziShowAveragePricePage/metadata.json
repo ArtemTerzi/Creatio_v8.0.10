@@ -1,0 +1,57 @@
+= MetaData.Schema.UId "9ba7e451-2949-405f-b1cb-6c6d5f5679d3"
+= MetaData.Schema.A2 "ArtemTerziShowAveragePricePage"
+= MetaData.Schema.A5 "727d454f-74e4-43bc-be3e-c57e5e690632"
+= MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A4 "9ba7e451-2949-405f-b1cb-6c6d5f5679d3"
+= MetaData.Schema.B2.["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28"].A5 "727d454f-74e4-43bc-be3e-c57e5e690632"
+= MetaData.Schema.B2.["a77180d7-a9d0-5c7d-a47b-74c0545a1774"].A4 "9ba7e451-2949-405f-b1cb-6c6d5f5679d3"
+= MetaData.Schema.B2.["a77180d7-a9d0-5c7d-a47b-74c0545a1774"].A5 "727d454f-74e4-43bc-be3e-c57e5e690632"
+= MetaData.Schema.B2.["a53e6c9a-741a-21de-9293-9d87d6014595"].A4 "9ba7e451-2949-405f-b1cb-6c6d5f5679d3"
+= MetaData.Schema.B2.["a53e6c9a-741a-21de-9293-9d87d6014595"].A5 "727d454f-74e4-43bc-be3e-c57e5e690632"
+= MetaData.Schema.B2.["09d13380-5ba0-e839-0eb2-8c4de07ba379"].A4 "9ba7e451-2949-405f-b1cb-6c6d5f5679d3"
+= MetaData.Schema.B2.["09d13380-5ba0-e839-0eb2-8c4de07ba379"].A5 "727d454f-74e4-43bc-be3e-c57e5e690632"
+= MetaData.Schema.B2.["3e977072-67fa-588e-d554-1d5c45e71ae9"].A4 "9ba7e451-2949-405f-b1cb-6c6d5f5679d3"
+= MetaData.Schema.B2.["3e977072-67fa-588e-d554-1d5c45e71ae9"].A5 "727d454f-74e4-43bc-be3e-c57e5e690632"
+= MetaData.Schema.B2.["231defdf-a768-e23a-fb30-1af82d65f9f9"].A4 "9ba7e451-2949-405f-b1cb-6c6d5f5679d3"
+= MetaData.Schema.B2.["231defdf-a768-e23a-fb30-1af82d65f9f9"].A5 "727d454f-74e4-43bc-be3e-c57e5e690632"
+= MetaData.Schema.B2.["d6b949fc-ba7c-e706-6a88-0422133b6a4e"].A4 "9ba7e451-2949-405f-b1cb-6c6d5f5679d3"
+= MetaData.Schema.B2.["d6b949fc-ba7c-e706-6a88-0422133b6a4e"].A5 "727d454f-74e4-43bc-be3e-c57e5e690632"
+= MetaData.Schema.B2.["ea614858-aa1f-88eb-88df-0df1c32cb9e4"].A4 "9ba7e451-2949-405f-b1cb-6c6d5f5679d3"
+= MetaData.Schema.B2.["ea614858-aa1f-88eb-88df-0df1c32cb9e4"].A5 "727d454f-74e4-43bc-be3e-c57e5e690632"
+= MetaData.Schema.B2.["a9f73c3b-ba40-54c2-52c9-53cb864eba03"].A4 "9ba7e451-2949-405f-b1cb-6c6d5f5679d3"
+= MetaData.Schema.B2.["a9f73c3b-ba40-54c2-52c9-53cb864eba03"].A5 "727d454f-74e4-43bc-be3e-c57e5e690632"
+= MetaData.Schema.B2.["0011a5bb-3302-742c-a621-c833f2ec8174"].A4 "9ba7e451-2949-405f-b1cb-6c6d5f5679d3"
+= MetaData.Schema.B2.["0011a5bb-3302-742c-a621-c833f2ec8174"].A5 "727d454f-74e4-43bc-be3e-c57e5e690632"
+= MetaData.Schema.B2.["67995f5e-d70a-e2a3-5494-a22737ff9c44"].A4 "9ba7e451-2949-405f-b1cb-6c6d5f5679d3"
+= MetaData.Schema.B2.["67995f5e-d70a-e2a3-5494-a22737ff9c44"].A5 "727d454f-74e4-43bc-be3e-c57e5e690632"
+= MetaData.Schema.B2.["be578da5-5d7d-ab2f-1e20-3e60b2942dd8"].A4 "9ba7e451-2949-405f-b1cb-6c6d5f5679d3"
+= MetaData.Schema.B2.["be578da5-5d7d-ab2f-1e20-3e60b2942dd8"].A5 "727d454f-74e4-43bc-be3e-c57e5e690632"
+= MetaData.Schema.B2.["bdd7993a-a255-b4d6-62d6-fe0785da6821"].A4 "9ba7e451-2949-405f-b1cb-6c6d5f5679d3"
+= MetaData.Schema.B2.["bdd7993a-a255-b4d6-62d6-fe0785da6821"].A5 "727d454f-74e4-43bc-be3e-c57e5e690632"
+~ MetaData.Schema.B2 ["fd9e5bd2-19ad-68b5-1356-fe7b39d36f28","a77180d7-a9d0-5c7d-a47b-74c0545a1774","a53e6c9a-741a-21de-9293-9d87d6014595","09d13380-5ba0-e839-0eb2-8c4de07ba379","3e977072-67fa-588e-d554-1d5c45e71ae9","231defdf-a768-e23a-fb30-1af82d65f9f9","d6b949fc-ba7c-e706-6a88-0422133b6a4e","ea614858-aa1f-88eb-88df-0df1c32cb9e4","a9f73c3b-ba40-54c2-52c9-53cb864eba03","0011a5bb-3302-742c-a621-c833f2ec8174","67995f5e-d70a-e2a3-5494-a22737ff9c44","be578da5-5d7d-ab2f-1e20-3e60b2942dd8","bdd7993a-a255-b4d6-62d6-fe0785da6821"]
+= MetaData.Schema.B6 "6a226c70-a7c8-4569-98b7-13f3830e8a7d"
+= MetaData.Schema.B8 "8.0.10.4735"
+= MetaData.Schema.HD1 "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9"
++ MetaData.Schema.HD11 {
+  "BL1": "Terrasoft.Core.ClientUnitSchemaParameter",
+  "UId": "d78cb954-b072-78db-97f6-b115c26d0670",
+  "A2": "ArtemTerziRichTextParameter1",
+  "A3": "9ba7e451-2949-405f-b1cb-6c6d5f5679d3",
+  "A4": "9ba7e451-2949-405f-b1cb-6c6d5f5679d3",
+  "L1": "79bccffa-8c8b-4863-b376-a69d2244182b",
+  "L8": {},
+  "L11": false
+}
++ MetaData.Schema.HD11 {
+  "BL1": "Terrasoft.Core.ClientUnitSchemaParameter",
+  "UId": "609222d4-034b-da24-e1e3-e7afe0fa3348",
+  "A2": "ArtemTerziAveragePriceParameter",
+  "A3": "9ba7e451-2949-405f-b1cb-6c6d5f5679d3",
+  "A4": "9ba7e451-2949-405f-b1cb-6c6d5f5679d3",
+  "L1": "5cc8060d-6d10-4773-89fc-8c12d6f659a6",
+  "L8": {},
+  "L11": false
+}
+~ MetaData.Schema.HD11 ["d78cb954-b072-78db-97f6-b115c26d0670","609222d4-034b-da24-e1e3-e7afe0fa3348"]
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false

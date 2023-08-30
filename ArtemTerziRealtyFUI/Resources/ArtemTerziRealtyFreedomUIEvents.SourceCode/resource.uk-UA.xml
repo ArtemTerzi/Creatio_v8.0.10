@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="ArtemTerziRealtyFreedomUIEvents" />
+			<Item Name="LocalizableStrings.ValueIsTooBig.Value" Value="Ціни більші {0} не допустимі." />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "b914d449-8b34-4d3c-8416-c9df54756a7f",
+    "Name": "ArtemTerziCalculateAveragePriceProcess",
+    "ModifiedOnUtc": "\/Date(1692874596000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Расчет средней цены недвижимости (Freedom UI)"
+  }
+}

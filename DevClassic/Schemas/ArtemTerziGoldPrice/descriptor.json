@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "05f30c89-5026-429f-af7c-2f0e150c1b3a",
+    "Name": "ArtemTerziGoldPrice",
+    "ModifiedOnUtc": "\/Date(1693586199000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Object",
+    "DependsOn": []
+  }
+}

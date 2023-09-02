@@ -4,6 +4,7 @@
     "Name": "ArtemTerziCalculateAveragePriceProcess",
     "ModifiedOnUtc": "\/Date(1692874596000)\/",
     "ManagerName": "ProcessSchemaManager",
-    "Caption": "Расчет средней цены недвижимости (Freedom UI)"
+    "Caption": "Расчет средней цены недвижимости (Freedom UI)",
+    "DependsOn": []
   }
 }

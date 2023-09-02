@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "4fe890e2-1f36-42fc-a806-d53aeb8b9d3f",
+    "Name": "ArtemTerziAddGoldRateSubprocess",
+    "ModifiedOnUtc": "\/Date(1693586752000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Подпроцесс добавления цены золота",
+    "DependsOn": []
+  }
+}

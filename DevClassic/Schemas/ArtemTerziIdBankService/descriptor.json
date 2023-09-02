@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "079552a7-b487-4690-9e0c-53100775b54b",
+    "Name": "ArtemTerziIdBankService",
+    "ModifiedOnUtc": "\/Date(1693585842000)\/",
+    "ManagerName": "ServiceSchemaManager",
+    "Caption": "https://link.idbanking.am",
+    "DependsOn": []
+  }
+}

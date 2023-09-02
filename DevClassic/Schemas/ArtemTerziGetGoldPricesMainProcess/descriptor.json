@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "519952ae-bf97-4be8-bb25-543552c4c0bc",
+    "Name": "ArtemTerziGetGoldPricesMainProcess",
+    "ModifiedOnUtc": "\/Date(1693586887000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Главный процесс получения цен золота",
+    "DependsOn": []
+  }
+}

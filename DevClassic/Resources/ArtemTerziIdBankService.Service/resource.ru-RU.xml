@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="https://link.idbanking.am" />
+			<Item Name="ServiceMethods.ArtemTerziMethod1.Caption" Value="/api/Rate/Gold" />
+			<Item Name="ServiceMethods.ArtemTerziMethod1.Response.Parameters.ArtemTerziCBList.Caption" Value="CashBuyList" />
+			<Item Name="ServiceMethods.ArtemTerziMethod1.Response.Parameters.ArtemTerziCBList.ItemProperties.ArtemTerziCBLRate.Caption" Value="Rate" />
+			<Item Name="ServiceMethods.ArtemTerziMethod1.Response.Parameters.ArtemTerziCBList.ItemProperties.ArtemTerziCBLWeight.Caption" Value="Weight" />
+			<Item Name="ServiceMethods.ArtemTerziMethod1.Response.Parameters.ArtemTerziCSList.Caption" Value="CashSellList" />
+			<Item Name="ServiceMethods.ArtemTerziMethod1.Response.Parameters.ArtemTerziCSList.ItemProperties.ArtemTerziCSLRate.Caption" Value="Rate" />
+			<Item Name="ServiceMethods.ArtemTerziMethod1.Response.Parameters.ArtemTerziCSList.ItemProperties.ArtemTerziCSLWeight.Caption" Value="Weight" />
+		</Items>
+	</Group>
+</Resources>

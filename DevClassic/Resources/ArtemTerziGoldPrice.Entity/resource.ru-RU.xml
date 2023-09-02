@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Цена золота" />
+			<Item Name="Columns.ArtemTerziRate.Caption" Value="Цена, AMR" />
+			<Item Name="Columns.ArtemTerziWeight.Caption" Value="Вес, г" />
+		</Items>
+	</Group>
+</Resources>

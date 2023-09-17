@@ -2,13 +2,12 @@
   "Descriptor": {
     "UId": "9ec51f1c-933b-40ce-9dd6-b4725d0bc105",
     "Name": "ArtemTerziRealtyFUI",
-    "ModifiedOnUtc": "\/Date(1692631281000)\/",
+    "ModifiedOnUtc": "\/Date(1694761294000)\/",
     "Parent": {
       "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
       "Name": "BaseEntity"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "Недвижимость (FreedomUI)",
-    "DependsOn": []
+    "Caption": "Недвижимость (FreedomUI)"
   }
 }

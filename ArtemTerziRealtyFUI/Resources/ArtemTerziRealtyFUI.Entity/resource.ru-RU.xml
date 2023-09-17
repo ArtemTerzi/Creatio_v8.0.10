@@ -3,7 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Недвижимость (FreedomUI)" />
-			<Item Name="Columns.ArtemTerziArea.Caption" Value="Площадь" />
+			<Item Name="Columns.ArtemTerziArea.Caption" Value="Площадь, м2" />
 			<Item Name="Columns.ArtemTerziCity.Caption" Value="Город" />
 			<Item Name="Columns.ArtemTerziComment.Caption" Value="Комментарий" />
 			<Item Name="Columns.ArtemTerziComnissionUSD.Caption" Value="Комиссия, USD" />
